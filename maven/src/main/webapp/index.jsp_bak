@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    <%
+    //response.sendRedirect("index.do"); //maven만 입력했을시 이동하는 파일은 여기인데 view안에 있는 index파일로 이동
+    %>
+<!--     <script> -->
+<%--     location.href ='index.do';   <% //위의 response는 서버단에서 실행 되는것이고 script는 클라이언트에서 실행되는것 %> --%>
+<!-- 	</script> -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+webapp밑에 index.jsp
+</body>
+</html>
